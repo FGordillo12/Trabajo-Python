@@ -22,5 +22,5 @@ while continuar == "si":
         print("Buenas señor, sus nombres son: " + Nombre + " y su indice de masa corporal es: " + str(IndiceMasa))
 
     print ("----------------------------------------------------------------------------------")
-    continuar = input("Desea agregar otra persona al programa (si o no) ").strip().lower() 
+    continuar = input("Desea agregar otra persona al programa (si o no) ")
     print ("Gracias por utiizar el programa señor usario")
